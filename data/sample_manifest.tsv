@@ -1,3 +1,4 @@
 sample	status	group
 proteomics-normalizer-01	ready	control
 proteomics-normalizer-02	review	case
+proteomics-normalizer-03	queued	validation
